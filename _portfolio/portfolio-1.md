@@ -4,12 +4,27 @@ excerpt: "Performed vibration-based testing and signal analysis to compare the c
 collection: portfolio
 ---
 
-## Objective
-
-## Overview
-
-## Skills
 
 ## Timeline
+Jan 2026 - Present
 
-## Projects
+## Skills
+- Experimental Design
+- Data Collection and Analysis
+- Python (Data Analysis + Visulization)
+- Rapid Prototyping (3D Printing)
+- Power Spectrum Density (PSD) Plots
+
+## Objectives
+Quantify and compare the vertical and lateral compliance characteristics of different road bike frames through vibration-based testing, using experimental data to inform performance insights and potential design improvements
+
+## Overview
+Designed and implemented a vibration analysis study to evaluate dynamic response behavior of multiple bicycle frames. Mounted accelerometers at key structural locations and collected time-domain data under a variety of excitation conditions. Processed and analyzed signals using analytical and computational methods to extract frequency response characteristics and compliance trends over different speeds and surfaces. Results will be compared across frames to identify differences in stiffness, damping behavior, and to help quantify overall ride comfort. 
+
+## Technical Details
+- Accelerometer-based data acquisition to measure vertical and lateral frame response
+- Designed and 3D printed custom accelerometer mounts for various mounting locations
+- Signal processing of time-domain data to obtain frequency-domain characteristics (PSD analysis)
+- Comparison of resonance frequencies and amplitude response to assess relative stiffness and damping
+- Investigation of compliance differences linked to geometry, material layup, and structural design
+- Ongoing refinement of test setup to reduce noise and improve measurement reliability
