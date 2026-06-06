@@ -10,9 +10,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Professional Projects"
-    url: /proprojects/
-  - title: "Academic Projects"
-    url: /acadprojects/
+  - title: "Project Portfolio"
+    url: /projects/
   - title: "Resume"
     url: /files/resume.pdf
