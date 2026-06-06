@@ -23,7 +23,7 @@ repository               : "willkilgore/willkilgore.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/pic_of_me.jpg"
   name             : "Will Kilgore"
   pronouns         : # example: "she/her"  
   bio              : "Mech. Eng. Intern at Automated Tire, Inc | Mechanical Engineering Student at McGill University"
