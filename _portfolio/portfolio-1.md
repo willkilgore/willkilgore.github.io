@@ -1,10 +1,8 @@
 ---
 title: "Vibrational Analysis"
-excerpt: "One line description"
-header:
-  teaser: /images/project-thumbnail.png
-tags: [Python, , ]
+excerpt: "Short description"
 collection: portfolio
+order: 1
 ---
 
 ## Objective
