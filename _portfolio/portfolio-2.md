@@ -1,8 +1,7 @@
 ---
-title: "Vibrational Analysis"
-excerpt: "Short description"
+title: " "
+excerpt: "excerpt"
 collection: portfolio
-order: 1
 ---
 
 ## Objective
