@@ -237,9 +237,7 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-
-  # _pages
+\
   - scope:
       path: ""
       type: pages
@@ -247,8 +245,6 @@ defaults:
       layout: single
       author_profile: true
 
-
-  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -257,25 +253,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  
-  - scope:
-      path: ""
-      type: professional portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  
-   - scope:
-      path: ""
-      type: academic portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
+
 
 
 
