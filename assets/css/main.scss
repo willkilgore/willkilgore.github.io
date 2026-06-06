@@ -41,6 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.author__urls-wrapper .btn {
+  display: none;
+}
+
+.theme__toggler {
+  display: none;
+}
 html {
   color-scheme: light only;
 }
