@@ -1,6 +1,6 @@
 ---
 title: "Custom Bike Components"
-excerpt: "Designed and manufactured a lightweight forged carbon fiber bike computer mount through iterative prototyping and composite molding."
+excerpt: "Designed and manufactured a lightweight forged carbon fiber bike computer mount through iterative prototyping and composite molding"
 collection: portfolio
 ---
 
