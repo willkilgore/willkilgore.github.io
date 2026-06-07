@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Timeline
-Oct - Dec 2025
+Oct 2025 - Dec 2025
 
 ## Skills
 - Finite Element Analysis (Abaqus) and Mesh Refinement
