@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## Timeline
-Jun - Aug 2025
+June 2025 - Aug 2025
 
 ## Skills
 - Rapid Prototyping + 3D Printing
