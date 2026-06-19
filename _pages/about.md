@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me:"
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 nav_exclude: true
 ---
-# Will Kilgore
+
 
 Mechanical Engineering Student | Product Development | Manufacturing Engineering
 
