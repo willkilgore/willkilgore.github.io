@@ -12,12 +12,12 @@ author_profile: true
 **Mechanical Engineering Intern**  
 May 2026 – Aug 2026
 
-Worked on the development of an autonomous tire-changing robotic platform supporting both prototype and production activities.
+Contributed to the development of an autonomous tire-changing robotic platform through mechanical design, manufacturing support, and product documentation. Designed new components in Onshape, created technical drawings, ECOs, and Arena PLM documentation, and reduced BOM complexity by redesigning assemblies to eliminate mirrored parts. Developed production jigs and tooling that cut assembly time by 40%, , provided redlines and participated in design reviews to improve assembly efficiency, and maintained three 3D printers supporting rapid prototyping and manufacturing operations.
 
 ### Highlights
-- Designed manufacturing fixtures that reduced production time by 40%
+- Developed manufacturing fixtures that reduced production time by 40%
 - Created technical drawings and assembly documentation in Onshape
-- Organized inventory for 1,000+ components
+- Designed mirrored parts to reduce BOM count
 - Improved cable routing and assembly documentation
 
 ---
@@ -27,7 +27,7 @@ Worked on the development of an autonomous tire-changing robotic platform suppor
 **Manufacturing & Engineering Intern**  
 Jun 2025 – Aug 2025
 
-Supported composite manufacturing, quality control, and engineering analysis activities.
+Contributed to engineering and manufacturing operations at Parlee Cycles through product testing, data analysis, and composite process development. Led a vibration analysis project using accelerometer data to quantify the vertical and lateral compliance characteristics of carbon fiber bicycle frames across varying riding conditions, providing objective performance data to support product evaluation and development. Developed and tested new prepreg layup schedules that reduced void content and increased production throughput of small composite components by up to 30%. Created an Excel-based bike fit analysis tool that generated and visualized rider fit coordinates across frame sizes and cockpit configurations, supporting customer fit evaluations. Assisted with quality control of overseas frame production through inspection procedures and defect tracking, gaining experience in composite manufacturing, product validation, and engineering-driven process improvement.
 
 ### Highlights
 - Conducted vibration analysis using accelerometer data
@@ -41,17 +41,11 @@ Supported composite manufacturing, quality control, and engineering analysis act
 
 **Aerostructures Co-Lead**
 
-Designed and manufactured composite structures for student rocketry projects.
+Co-led the aerostructures subteam of the McGill Rocket Team, overseeing the design and manufacturing of composite rocket structures. Designed composite tooling and molds, supported carbon fiber fabrication, and documented procedures to improve manufacturability and repetability. Worked closely with cross-functional teams to deliver flight-ready hardware within project timelines and budget constraints.
 
 ### Highlights
 - Designed composite tooling and molds
 - Coordinated manufacturing activities
 - Supported testing and integration
 
----
 
-# McGill Cycling Club
-
-**Finance Executive**
-
-Managed club finances and supported event planning and operations.
