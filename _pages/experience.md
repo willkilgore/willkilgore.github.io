@@ -7,9 +7,9 @@ author_profile: true
 
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="/images/ati_logo.jpg" style="flex: 1; min-width: 250px;">
-  <img src="/images/parlee_logo.jpg" style="flex: 1; min-width: 250px;">
-  <img src="/images/mrt_logo.jpg" style="flex: 1; min-width: 250px;">
+  <img src="/images/ati_logo.jpg" style="flex: 1; min-width: 100px;">
+  <img src="/images/parlee_logo.jpg" style="flex: 1; min-width: 100px;">
+  <img src="/images/mrt_logo.jpg" style="flex: 1; min-width: 100px;">
 </div>
 
 # Automated Tire, Inc.
