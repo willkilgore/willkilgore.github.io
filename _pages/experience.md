@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-
+---
 # Automated Tire, Inc.
 
 **Mechanical Engineering Intern**  
