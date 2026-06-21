@@ -30,7 +30,7 @@ Contributed to engineering and manufacturing operations at Parlee Cycles through
 
 ### Highlights
 - Conducted vibration analysis using accelerometer data
-- Developed a bicycle fit analysis tool
+- Developed a bicycle fit analysis tool to reduce new part count
 - Improved composite layup schedules
 - Increased production throughput by up to 30%
 
