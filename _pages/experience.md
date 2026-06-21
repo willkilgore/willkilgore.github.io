@@ -8,6 +8,8 @@ author_profile: true
 ---
 # Automated Tire, Inc.
 
+<img src="/assets/images/ati_logo.jpg" width="100%">
+
 **Mechanical Engineering Intern**  
 May 2026 – Aug 2026
 
