@@ -4,9 +4,7 @@ permalink: /experience/
 layout: single
 author_profile: true
 ---
-
 <br> 
-
 # Automated Tire, Inc.
 
 **Mechanical Engineering Intern**  
