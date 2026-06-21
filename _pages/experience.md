@@ -12,7 +12,7 @@ author_profile: true
 **Mechanical Engineering Intern**  
 May 2026 – Aug 2026
 
-Contributed to the development of an autonomous tire-changing robotic platform through mechanical design, manufacturing support, and product documentation. Designed new components in Onshape, created technical drawings, ECOs, and Arena PLM documentation, and reduced BOM complexity by redesigning assemblies to eliminate mirrored parts. Developed production jigs and tooling that cut assembly time by 40%, , provided redlines and participated in design reviews to improve assembly efficiency, and maintained three 3D printers supporting rapid prototyping and manufacturing operations.
+Contributed to the development of an autonomous tire-changing robotic platform through mechanical design, manufacturing support, and product documentation. Designed new components in Onshape, created technical drawings, ECOs, and Arena PLM documentation, and reduced BOM complexity by redesigning assemblies to eliminate mirrored parts. Developed production jigs and tooling that cut assembly time by 40%, provided redlines and participated in design reviews to improve assembly efficiency, and maintained three 3D printers supporting rapid prototyping and manufacturing operations.
 
 ### Highlights
 - Developed manufacturing fixtures that reduced production time by 40%
