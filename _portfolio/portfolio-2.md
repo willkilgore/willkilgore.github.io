@@ -20,9 +20,9 @@ Designed and evaluated different mount designs using Solidworks, then rapid prot
 
 ## Technical Details
 - Multiple rapid FDM prototypes to test fit and shape
-- Design driven by stiffness-to-mass tradeoff and ease of manufacturing
+- Refined geometry to maximize stiffness-to-mass ratio while maintaining manufacturability with a reusable multi-part mold
 - Mold is printed from PLA with a high infill and wall count to withstand clamping pressure
-- Proper mold sanding and lubrication to ensure easy part extraction
+- Mold surface preparation and release agent selection minimized part defects and enabled repeatable demolding
 - Forged carbon fiber is used for its relatively isotropic qualities and ability to fill the complex geometry of the mold
 - Application of a clear coat reduces moisture ingress into the final part and improve lifespan
 - Titanium hardware and anti-seize used to mitigate the galvanic corrosion of carbon fiber and aluminum contact
