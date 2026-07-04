@@ -4,6 +4,10 @@ excerpt: "Performed vibration-based testing and signal analysis to compare the c
 collection: portfolio
 ---
 
+<p align="center">
+  <img src="/images/sensor_2.jpg" width="48%">
+  <img src="/images/sensor_3.jpg" width="48%">
+</p>
 
 ## Timeline
 Jan 2026 - Present
