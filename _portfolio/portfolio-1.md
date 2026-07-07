@@ -32,3 +32,23 @@ Designed and implemented a vibration analysis study to evaluate dynamic response
 - Comparison of resonance frequencies and amplitude response to assess relative stiffness and damping
 - Investigation of compliance differences linked to geometry, material layup, and structural design
 - Ongoing refinement of test setup to reduce noise and improve measurement reliability
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><img src="model.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="sensor_1.jpg" style="width:100%; max-width:220px;"></td>
+  </tr>
+  <tr>
+    <td><em>Initial Design</em></td>
+    <td><em>Prototype and Final Part</em></td>
+  </tr>
+
+  <tr>
+    <td><img src="data_trim.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="graph1.jpg" style="width:100%; max-width:220px;"></td>
+  </tr>
+  <tr>
+    <td><em>Data Preprocessing</em></td>
+    <td><em>RMS Comparison Between Bikes</em></td>
+  </tr>
+</table>
