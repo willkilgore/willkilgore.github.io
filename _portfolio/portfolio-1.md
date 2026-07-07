@@ -44,8 +44,8 @@ Designed and implemented a vibration analysis study to evaluate dynamic response
   </tr>
 
   <tr>
-    <td><img src="/images/data_trim.jpg" style="width:28%; max-width:220px;"></td>
-    <td><img src="/images/graph1.jpg" style="width:68%; max-width:220px;"></td>
+    <td><img src="/images/data_trim.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="/images/graph1.jpg" style="width:100%; max-width:220px;"></td>
   </tr>
   <tr>
     <td><em>Data Preprocessing</em></td>
