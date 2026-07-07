@@ -35,8 +35,8 @@ Designed and implemented a vibration analysis study to evaluate dynamic response
 
 <table style="width:100%; text-align:center;">
   <tr>
-    <td><img src="model.jpg" style="width:100%; max-width:220px;"></td>
-    <td><img src="sensor_1.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="/images/model.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="/images/sensor_1.jpg" style="width:100%; max-width:220px;"></td>
   </tr>
   <tr>
     <td><em>Initial Design</em></td>
@@ -44,8 +44,8 @@ Designed and implemented a vibration analysis study to evaluate dynamic response
   </tr>
 
   <tr>
-    <td><img src="data_trim.jpg" style="width:100%; max-width:220px;"></td>
-    <td><img src="graph1.JPG" style="width:100%; max-width:220px;"></td>
+    <td><img src="/images/data_trim.jpg" style="width:100%; max-width:220px;"></td>
+    <td><img src="/images/graph1.JPG" style="width:100%; max-width:220px;"></td>
   </tr>
   <tr>
     <td><em>Data Preprocessing</em></td>
