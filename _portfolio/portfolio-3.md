@@ -35,4 +35,3 @@ This was a group project completed as part of a class on deformable solids, in w
 - Boundary conditions and loading cases were applied to represent real world conditions
 - Design was iterated to minimize weight and maximize strength and weight of the final product
 - Final geometry was laser-cut out of acrylic and then tested to failure to verify predicted values
-- Final design achieved the lowest weight of the class while still meeting the imposed stiffness requirements
