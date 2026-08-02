@@ -1,5 +1,5 @@
 ---
-title: "FEA Optimization"
+title: "Acrylic Bracket FEA Optimization"
 excerpt: "Optimized an acrylic bracket using FEA to maximize stiffness- and strength-to-weight ratios under design constraints"
 collection: portfolio
 ---
