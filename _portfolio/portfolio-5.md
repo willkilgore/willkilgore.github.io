@@ -9,9 +9,6 @@ collection: portfolio
   align="center">
   <img src="/images/fit_graph.jpg" width="70%">
 </p>
-<p 
-  align="center"><em>Fit Coverage Graph (Each connected line represents fits achieved by a given handlebar, points are existing fit data)
-</p>
 
 ## Timeline
 June 2025 - June 2026
