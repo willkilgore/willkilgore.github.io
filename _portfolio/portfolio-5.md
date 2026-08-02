@@ -4,6 +4,10 @@ excerpt: "Developed an Excel-based fit analysis tool and graphical comparison sy
 collection: portfolio
 ---
 
+<p align="center">
+  <img src="/images/fit_graph.jpg" width="70%">
+</p>
+
 ## Timeline
 June 2025 - June 2026
 
