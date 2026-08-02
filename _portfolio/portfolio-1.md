@@ -5,8 +5,8 @@ collection: portfolio
 ---
 
 <p align="center">
-  <img src="/images/sensor_2.1.JPG" width="30%">
   <img src="/images/sensor_3.1.JPG" width="30%">
+  <img src="/images/sensor_2.1.JPG" width="30%">
 </p>
 
 ## Timeline
