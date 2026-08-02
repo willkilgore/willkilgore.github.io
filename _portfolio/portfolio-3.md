@@ -4,6 +4,18 @@ excerpt: "Optimized an acrylic bracket using FEA to maximize stiffness- and stre
 collection: portfolio
 ---
 
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><img src="/images/fea_1.jpg" style="width:100%; max-width:220px; max-height:220px;"></td>
+    <td><img src="/images/fea_3.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
+  </tr>
+  <tr>
+    <td><em>Mesh Creation and Boundary Definition</em></td>
+    <td><em>Final Cut Part for Validation</em></td>
+  </tr>
+
+</table>
+
 ## Timeline
 Oct 2025 - Dec 2025
 
