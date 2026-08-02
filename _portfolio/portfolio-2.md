@@ -4,6 +4,11 @@ excerpt: "Designed and manufactured a lightweight forged carbon fiber bike compu
 collection: portfolio
 ---
 
+<p align="center">
+  <img src="/images/custom_1.JPG" width="30%">
+  <img src="/images/custom_4.JPG" width="30%">
+</p>
+
 ## Timeline
 June 2025 - Aug 2025
 
@@ -27,3 +32,16 @@ Designed and evaluated different mount designs using Solidworks, then rapid prot
 - Application of a clear coat reduces moisture ingress into the final part and improve lifespan
 - Titanium hardware and anti-seize used to mitigate the galvanic corrosion of carbon fiber and aluminum contact
 - Final part validated through static loading and on-bike testing
+
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><img src="/images/custom_2.jpg" style="width:100%; max-width:220px; max-height:220px;"></td>
+    <td><img src="/images/custom_3.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
+  </tr>
+  <tr>
+    <td><em>Initial Prototyping</em></td>
+    <td><em>Part Extraction from Mold</em></td>
+  </tr>
+
+</table>
+
