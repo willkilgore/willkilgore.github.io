@@ -8,7 +8,7 @@ collection: portfolio
   <img src="/images/fit_graph.jpg" width="70%">
 </p>
 <p 
-  align="center"><em>Fit Coverage Graph(Each connected line represents fits achieved by a handlebar, points are existing fit data)
+  align="center"><em>Fit Coverage Graph (Each connected line represents fits achieved by a handlebar, points are existing fit data)
 </p>
 
 
