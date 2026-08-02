@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <p align="center">
-  <img src="/images/custom_1.JPG" width="30%">
+  <img src="/images/custom_1.jpg" width="30%">
   <img src="/images/custom_4.JPG" width="30%">
 </p>
 
