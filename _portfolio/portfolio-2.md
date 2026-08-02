@@ -35,7 +35,7 @@ Designed and evaluated different mount designs using Solidworks, then rapid prot
 
 <table style="width:100%; text-align:center;">
   <tr>
-    <td><img src="/images/custom_2.jpg" style="width:100%; max-width:220px; max-height:220px;"></td>
+    <td><img src="/images/custom_2.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
     <td><img src="/images/custom_3.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
   </tr>
   <tr>
