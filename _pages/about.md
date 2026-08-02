@@ -9,11 +9,11 @@ nav_exclude: true
 ---
 
 
-Mechanical Engineering Student | Product Development | Manufacturing Engineering
+Mechanical Engineering Student | Product Development | Mechanical Design
 
 I'm a Mechanical Engineering student at McGill University with experience spanning product development, composite manufacturing, robotics, and rapid prototyping. My work has included designing production tooling, improving manufacturing processes, conducting vibration analysis, and supporting electromechanical systems from concept through fabrication.
 
-Through internships in both advanced composites and robotics, I've developed a strong foundation in mechanical design, manufacturing engineering, and hands-on problem solving. I enjoy building practical solutions, whether that means designing fixtures that improve production efficiency, analyzing experimental data, or manufacturing prototypes in the shop.
+Through internships in both advanced robotics and composites, I've developed a strong foundation in mechanical design, manufacturing engineering, and hands-on problem solving. I enjoy building practical solutions, whether that means designing fixtures that improve production efficiency, analyzing experimental data, or manufacturing prototypes in the shop.
 
 ## Areas of Interest
 
