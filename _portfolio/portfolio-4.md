@@ -4,6 +4,19 @@ excerpt: "Reduced carbon fiber bike part production time and post-processing by 
 collection: portfolio
 ---
 
+<table style="width:100%; text-align:center;">
+  <tr>
+    <td><img src="/images/layup_1.jpg" style="width:100%; max-width:220px; max-height:220px;"></td>
+    <td><img src="/images/layup_2.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
+    <td><img src="/images/layup_3.JPG" style="width:100%; max-width:220px; max-height:220px;"></td>
+  </tr>
+  <tr>
+    <td><em>Cut Pattern Optimization</em></td>
+    <td><em>Post Processing of Parts</em></td>
+    <td><em>Final Parts for Retail</em></td>
+  </tr>
+
+</table>
 ## Timeline
 June 2025 - Aug 2025
 
