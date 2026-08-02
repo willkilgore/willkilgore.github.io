@@ -10,7 +10,7 @@ collection: portfolio
 </p>
 
 ## Timeline
-Jan 2026 - Present
+Jan 2026 - August 2026
 
 ## Skills
 - Experimental Design
