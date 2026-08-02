@@ -25,7 +25,7 @@ June 2025 - June 2026
 Develop a data-driven tool to evaluate handlebar fit coverage across different bicycle configurations and guide future product development.
 
 ## Overview
-After my internship with Parlee Cycles, I developed an Excel-based fit analysis tool that calculated rider handlebar stack and reach coordinates based on frame size, stem length, stem angle, and spacer height. The tool generated over 150 possible cockpit configurations and plotted them against a database of more than 200 existing rider fit measurements. This visualization allowed the engineering team to quickly identify gaps in fit coverage, compare proposed handlebar geometries to real-world rider data, and determine which new handlebar sizes would provide the greatest benefit while minimizing the number of new products required.
+After my in person internship with Parlee Cycles, I developed an Excel-based fit analysis tool that calculated rider handlebar stack and reach coordinates based on frame size, stem length, stem angle, and spacer height. The tool generated over 150 possible cockpit configurations and plotted them against a database of more than 200 existing rider fit measurements. This visualization allowed the engineering team to quickly identify gaps in fit coverage, compare proposed handlebar geometries to real-world rider data, and determine which new handlebar sizes would provide the greatest benefit while minimizing the number of new products required.
 
 
 ## Technical Details
