@@ -15,5 +15,5 @@ main:
   - title: "Experience"
     url: /experience/
   - title: "Resume"
-    url: "/files/resume.pdf"
+    url: /resume/
     
