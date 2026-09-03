@@ -13,16 +13,24 @@ collection: portfolio
 Jun 2026 - Aug 2026
 
 ## Skills
-- 
+- Mechanical Design
+- Rapid Prototyping
+- Supplier and Material Sourcing
+- Lifecycle Validation
 
 ## Objectives
-TO DO 
+Design and build a compact automated test rig capable of applying repeatable loads to critical components for accelerated lifecycle testing.
 
 ## Overview
-TO DO
+Designed and built a custom automated test rig using primarily off-the-shelf components and minimal custom parts to perform 10,000+ load cycles. A continuous-slip magnetic particle brake provides adjustable torque loading, while an Arduino controls two tire-spinning devices and coordinates automated testing. A pneumatic subsystem uses solenoid-controlled air cylinders to engage the devices with the tire and maintain consistent test conditions.
 
 ## Technical Details
-- TO DO
+- Designed the system around a continuous-slip magnetic particle brake capable of applying up to 100 N·m of adjustable torque
+- Integrated pneumatically actuated cylinders and solenoid valves to provide repeatable tire engagement
+- Arduino-based controls to automate test cycles
+- Combined custom components with off-the-shelf hardware to minimize cost and development time
+- Sourced components from multiple suppliers based on cost, lead time, availability, and integration requirements
+- Designed to withstand 10,000+ repeated load cycles while maintaining consistent test conditions
 
 <table style="width:100%; text-align:center;">
   <tr>
